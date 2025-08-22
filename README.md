@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://github.com/adiithyaneelakantan/resume-portfolio/blob/main/images/hero%20page.png?raw=true<img width="2880" height="1590" alt="image" src="https://github.com/user-attachments/assets/4f040486-87b6-434b-8c7b-0d677f0f0458" />
 
 <!--
 **adiithyaneelakantan/adiithyaneelakantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
