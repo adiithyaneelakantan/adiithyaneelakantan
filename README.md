@@ -1,5 +1,5 @@
-## Hi there 👋
-<img width="2880" height="1590" alt="image" src="https://github.com/user-attachments/assets/4f040486-87b6-434b-8c7b-0d677f0f0458" />
+## Hiiii, 👋
+<img width="587" height="785" alt="image" src="https://github.com/user-attachments/assets/95c50088-3038-4779-a4bd-07a5780231c8" />
 
 <!--
 **adiithyaneelakantan/adiithyaneelakantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
