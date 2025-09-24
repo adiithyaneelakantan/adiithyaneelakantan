@@ -12,11 +12,7 @@ I'm a **Software Engineer & AI/ML Enthusiast** with experience in building scala
 ### 🌱 Currently Exploring  
 - Large-scale **LLM applications** (agents, retrieval-augmented generation).  
 - **Distributed systems** for ML inference.  
-- Optimization of **AI workloads on CPUs/GPUs**.  
-
-### 👯 Let’s Collaborate On  
-- Projects/Games with **AI/ML, NLP, or Computer Vision**.
-- Learning more about new things coming in AI, RAG.
+- Optimization of **AI workloads on CPUs/GPUs**.
 
 ### 💬 Ask Me About  
 - AI Agents, ML Pipelines.
