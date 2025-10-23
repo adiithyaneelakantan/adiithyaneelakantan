@@ -20,5 +20,5 @@ I'm a **Software Engineer & AI/ML Enthusiast** with experience in building scala
 - Deep in Claire Saffitz's books.
 
 ### ⚡ Fun Fact  
-When I’m not working on code or ML models, I love reading, watching movies, and baking. 
+When I’m not working on code or ML models, I love reading, watching movies, and baking. 🌸
 
